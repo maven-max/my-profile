@@ -50,7 +50,7 @@ body {
   color: white;
   overflow: auto;
   box-sizing: border-box;
-  margin: 20px 0px;
+  padding-bottom: 30px;
 }
 
 .nav-container {
