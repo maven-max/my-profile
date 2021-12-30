@@ -37,6 +37,10 @@ body {
 }
 
 .connect-button {
+  color: black;
+  background-color: white;
+  font-size: small;
+  text-decoration: none;
   padding: 10px 20px;
   border-radius: 30px;
   border: none;
