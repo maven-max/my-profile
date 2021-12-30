@@ -37,13 +37,17 @@ body {
 }
 
 .connect-button {
-  color: black;
+  color: gray;
   background-color: whitesmoke;
   font-size: small;
   text-decoration: none;
   padding: 10px 20px;
   border-radius: 30px;
   border: none;
+}
+.connect-button:hover {
+  color: black;
+  transition: ease-in-out 500ms;
 }
 
 .right {
